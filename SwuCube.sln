@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwuCube.App", "SwuCube.App\SwuCube.App.csproj", "{76284FC1-5C81-453B-B8DB-BB6FDDB5AFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwuCube.Core", "SwuCube.Core\SwuCube.Core.csproj", "{08B6EDB8-6E97-44AD-9339-7EC6BF9FCF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwuCube.Core.Tests", "SwuCube.Core.Tests\SwuCube.Core.Tests.csproj", "{F25EA5F2-6B44-4A57-B9AF-3EA1DCCAA2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76284FC1-5C81-453B-B8DB-BB6FDDB5AFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76284FC1-5C81-453B-B8DB-BB6FDDB5AFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76284FC1-5C81-453B-B8DB-BB6FDDB5AFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76284FC1-5C81-453B-B8DB-BB6FDDB5AFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B6EDB8-6E97-44AD-9339-7EC6BF9FCF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B6EDB8-6E97-44AD-9339-7EC6BF9FCF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B6EDB8-6E97-44AD-9339-7EC6BF9FCF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B6EDB8-6E97-44AD-9339-7EC6BF9FCF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25EA5F2-6B44-4A57-B9AF-3EA1DCCAA2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25EA5F2-6B44-4A57-B9AF-3EA1DCCAA2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25EA5F2-6B44-4A57-B9AF-3EA1DCCAA2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25EA5F2-6B44-4A57-B9AF-3EA1DCCAA2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

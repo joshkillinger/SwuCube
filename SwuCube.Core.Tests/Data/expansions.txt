@@ -1,0 +1,38 @@
+[
+	{
+		"expansionId": 21,
+		"expansionAbbreviation": "SEC",
+		"expansionName": "Secrets of Power",
+		"releaseDate": "2025-11-07"
+	},
+	{
+		"expansionId": 20,
+		"expansionAbbreviation": "LOF",
+		"expansionName": "Legends of the Force",
+		"releaseDate": "2025-07-11"
+	},
+	{
+		"expansionId": 19,
+		"expansionAbbreviation": "JTL",
+		"expansionName": "Jump to Lightspeed",
+		"releaseDate": "2025-03-14"
+	},
+	{
+		"expansionId": 5,
+		"expansionAbbreviation": "TWI",
+		"expansionName": "Twilight of the Republic",
+		"releaseDate": "2024-11-05"
+	},
+	{
+		"expansionId": 6,
+		"expansionAbbreviation": "SHD",
+		"expansionName": "Shadows of the Galaxy",
+		"releaseDate": "2024-07-12"
+	},
+	{
+		"expansionId": 1,
+		"expansionAbbreviation": "SOR",
+		"expansionName": "Spark of Rebellion",
+		"releaseDate": "2024-03-08"
+	}
+]
